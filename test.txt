@@ -1,1 +1,3 @@
 text added in Conflict Branch
+
+### Text added via Github
